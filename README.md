@@ -1,0 +1,1 @@
+# Python-funny-project-01
